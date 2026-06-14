@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **React, Next.js and Full Stack Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://devportfolio786.netlify.app](https://devportfolio786.netlify.app)
+- 👨‍💻 Portfolio [https://devportfolio786.netlify.app](https://devportfolio786.netlify.app)
 
 - 💬 Ask me about **ReactJS, NextJS, Expressjs, NodeJs, MongoDB, React Native**
 
-- 📫 How to reach me **samideveloper96@gmail.com**
+- 📫 My Email **samideveloper96@gmail.com**
 
-- 📄 Know about my experiences [https://developer-resume-d61893.tiiny.site](https://developer-resume-d61893.tiiny.site)
+- 📄 My Resume [https://developer-resume-d61893.tiiny.site](https://developer-resume-d61893.tiiny.site)
 
-- ⚡ Fun fact **I enjoy turning complex ideas into simple user-friendly interfaces.**
+- ⚡ Hobby **I enjoy turning complex ideas into simple user-friendly interfaces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
